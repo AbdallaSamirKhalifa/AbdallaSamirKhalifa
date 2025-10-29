@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Abdalla Samir Khalifa<br> Java Developer</h1>
+<h1 align="center" >Abdalla Samir Khalifa <br>  Java Developer </h1>
 
 ###
 
