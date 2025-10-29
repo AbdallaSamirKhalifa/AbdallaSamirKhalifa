@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center" >Abdalla Samir Khalifa <br>  Java Developer </h1>
+<h1 align="center" >Abdalla Samir Khalifa <br>  Java Developer / Backend Developer</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Java developer who  wants to develop his skills in building (robust, scalable and maintainable) backend systems.</h2>
+<h2 align="left">Backend developer intrested in developing my skills in building (robust, scalable and maintainable) backend systems.</h2>
 
 ###
 
