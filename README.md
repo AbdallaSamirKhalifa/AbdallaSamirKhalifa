@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">Java developer interested in developing my skills in building (robust, scalable and maintainable) backend systems.</h2>
+<h2 align="left">About</h2>
 
 ###
 
-<p align="left"></p>
+<h2 align="left">Java developer who  wants to develop his skills in building (robust, scalable and maintainable) backend systems.</h2>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -30,17 +30,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/abdalla-khalifa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="abdallasamirkhalifa@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
 ###
