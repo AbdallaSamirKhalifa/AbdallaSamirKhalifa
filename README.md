@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Java developer who  wants to develop his skills in building (robust, scalable and maintainable) backend systems.</h2>
+<h2 align="left">Java developer interested in developing my skills in building (robust, scalable and maintainable) backend systems.</h2>
 
 ###
 
