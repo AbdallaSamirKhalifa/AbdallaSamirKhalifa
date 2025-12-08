@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center" >Abdalla Samir Khalifa <br>  Java Developer / Backend Developer</h1>
+<h1 align="center">Abdalla Samir Khalifa<br> Java Developer</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Backend developer intrested in developing my skills in building (robust, scalable and maintainable) backend systems.</h2>
+<h2 align="left">Java developer who  wants to develop his skills by building (robust, scalable and maintainable) backend systems.</h2>
 
 ###
 
@@ -29,6 +29,8 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -36,6 +38,8 @@
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
   <img width="13" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
