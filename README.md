@@ -6,10 +6,23 @@
 
 ###
 
-<p align="left">I am a backend software engineer specializing in Java and the Spring ecosystem. My approach to development is grounded in meeting practical business requirements with stable, maintainable architecture and code.
-My daily work revolves around building backend services, designing relational databases, and optimizing query performance. My core technical stack includes Java, Spring (Boot, Security, Data JPA), Linux, and Docker, and I also have a working familiarity with frontend development using Angular. I rely on OOP principles, solid system design, and rigorous peer code reviews to maintain code quality across the team.
-To continue growing as an engineer, I am actively expanding my expertise by learning new technologies and working to make my system design skills more solid. Currently, I am exploring LLM-assisted development, testing how AI tools and context engineering can be used practically to assist with system analysis and development workflows.
-I am actively exploring new backend roles and looking to join an engineering team that values technical discipline and straightforward collaboration.</p>
+<p align="left">Backend engineer (Java Spring) with experience building backend systems that works under high traffic.
+
+ 
+
+Contributed to the analysis, design, implementation, writing unit/integration tests, Optimizing the performance (DB, or application using techniques such as scatter-gather), code review and refactoring. while working on backend Food-Delivery APIs where i designed DB schema, security model, and setting up Docker and docker compose for seamless deployment across multiple environments.
+
+
+
+Currently building a modular-monolithic E2E booking APIs that integrates with 3rd party APIs aggregating flights, and hotels handling the full client  journey from search to paid reservation.
+
+focusing on system design, caching strategies, and asynchronous communication. Also deepening my knowledge in system design, microservices, and Frontend via books and other resources.
+
+  
+
+I came to backend engineering through self-directed study. Where i developed a solid foundation in CS fundamentals and also implemented core data structures from scratch in C++, then moving through C# and into Java and the Spring ecosystem.
+
+</p>
 
 ###
 
