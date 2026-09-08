@@ -6,9 +6,9 @@
 
 ###
 
-<p align="left">Backend engineer (Java Spring) with experience building backend systems that works under high traffic.
+<p align="left">Backend engineer and an Open Source Contributor with experience building backend systems that works under high traffic.
 
- 
+Contributed to [JabRef](https://github.com/JabRef/jabref) removing hardcoded JavaFX styling, fixing client facing bugs, refactoring code enforcing **Clean Code Principles** enhancing future scalability, maintainability and user experience.
 
 Contributed to the analysis, design, implementation, writing unit/integration tests, Optimizing the performance (DB, or application using techniques such as scatter-gather), code review and refactoring. while working on backend Food-Delivery APIs where i designed DB schema, security model, and setting up Docker and docker compose for seamless deployment across multiple environments.
 
