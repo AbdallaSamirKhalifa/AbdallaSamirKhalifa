@@ -6,21 +6,23 @@
 
 ###
 
-<p align="left">Backend engineer and an Open Source Contributor with experience building backend systems that works under high traffic.
+<p align="left">Backend engineer specializing in Java and the Spring ecosystem, with a track record of shipping well architected backend systems and contributing to open-source projects.
 
-Contributed to [JabRef](https://github.com/JabRef/jabref) removing hardcoded JavaFX styling, fixing client facing bugs, refactoring code enforcing **Clean Code Principles** enhancing future scalability, maintainability and user experience.
+ 
 
-Contributed to the analysis, design, implementation, writing unit/integration tests, Optimizing the performance (DB, or application using techniques such as scatter-gather), code review and refactoring. while working on backend Food-Delivery APIs where i designed DB schema, security model, and setting up Docker and docker compose for seamless deployment across multiple environments.
+I contributed to [JabRef](https://github.com/JabRef/jabref), a widely used open-source Java application (4.7k+ GitHub stars), identified an Open-Closed Principle violation in the OCR module and refactored it using the Factory pattern to decouple engine creation. I also resolved user-facing bugs in the Journal Abbreviation module and removed hardcoded JavaFX styling in favor of reusable, theme consistent configurations.
 
+ 
 
+On a team, built a food delivery platform, I contributed to system analysis and design, implemented the database schema and security model, wrote unit and integration tests, and set up Docker and Docker Compose for consistent deployment across environments.
 
-Currently building a modular-monolithic E2E booking APIs that integrates with 3rd party APIs aggregating flights, and hotels handling the full client  journey from search to paid reservation.
+ 
 
-focusing on system design, caching strategies, and asynchronous communication. Also deepening my knowledge in system design, microservices, and Frontend via books and other resources.
+I'm currently designing a modular-monolithic flight and hotel booking aggregator that integrates with 3rd party APIs, we have finalized the core function specifications for both modules and now working through system design, caching strategy, and async communication patterns before moving into implementation. I'm also deepening my knowledge of microservices and frontend development through structured reading and hands-on projects.
 
-  
+ 
 
-I came to backend engineering through self-directed study. Where i developed a solid foundation in CS fundamentals and also implemented core data structures from scratch in C++, then moving through C# and into Java and the Spring ecosystem.
+I came to backend engineering through self-directed study. Starting with core CS fundamentals and data structures implemented from scratch in C++, then C#, and finally specializing in Java and the Spring ecosystem.
 
 </p>
 
