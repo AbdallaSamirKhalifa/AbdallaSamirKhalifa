@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Backend engineer specializing in Java and the Spring ecosystem, with a track record of shipping well architected backend systems and contributing to open-source projects.
+<p align="left">Backend engineer, ITI 9-Month trainee specializing in Java and the Spring ecosystem, with a track record of shipping well architected backend systems and contributing to open-source projects.
 
  
 
@@ -18,13 +18,14 @@ On a team, built a food delivery platform, I contributed to system analysis and 
 
  
 
-I'm currently designing a modular-monolithic flight and hotel booking aggregator that integrates with 3rd party APIs, we have finalized the core function specifications for both modules and now working through system design, caching strategy, and async communication patterns before moving into implementation. I'm also deepening my knowledge of microservices and frontend development through structured reading and hands-on projects.
-
- 
-
 I came to backend engineering through self-directed study. Starting with core CS fundamentals and data structures implemented from scratch in C++, then C#, and finally specializing in Java and the Spring ecosystem.
 
 </p>
+
+## **Contact**
+
+- Email: abdallasamirkhalifa@gmail.com
+- Linkedin: [Abdalla Khalifa](linkedin.com/in/abdalla-khalifa)
 
 ###
 
