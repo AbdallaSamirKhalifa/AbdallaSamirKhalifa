@@ -10,11 +10,11 @@
 
  
 
-I contributed to [JabRef](https://github.com/JabRef/jabref), a widely used open-source Java application (4.7k+ GitHub stars), identified an Open-Closed Principle violation in the OCR module and refactored it using the Factory pattern to decouple engine creation. I also resolved user-facing bugs in the Journal Abbreviation module and removed hardcoded JavaFX styling in favor of reusable, theme consistent configurations.
+Contributed to [JabRef](https://github.com/JabRef/jabref), a widely used open-source Java application (4.7k+ GitHub stars), identified and refactoerd an Open-Closed Principle violation by utilizing the Factory Design Pattern to decouple OCR engine instantiation. Also resolved user-facing bugs in the Journal Abbreviation module and removed hardcoded JavaFX styling in favor of reusable theme and consistent configurations.
 
  
 
-On a team, built a food delivery platform, I contributed to system analysis and design, implemented the database schema and security model, wrote unit and integration tests, and set up Docker and Docker Compose for consistent deployment across environments.
+Built a food delivery platform, contributed to system analysis and design, implemented the database schema and security model, wrote unit and integration tests, and set up Docker and Docker Compose for consistent deployment across environments (Teamwork).
 
  
 
@@ -25,7 +25,7 @@ I came to backend engineering through self-directed study. Starting with core CS
 ## **Contact**
 
 - Email: abdallasamirkhalifa@gmail.com
-- Linkedin: [Abdullah Khalifah](linkedin.com/in/abdullah-khalifah)
+- Linkedin: [Abdullah Khalifah](linkedin.com/in/abdalla-khalifa)
 
 ###
 
