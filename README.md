@@ -1,4 +1,4 @@
-<h1 align="center">Abdalla Samir Khalifa</h1>
+<h1 align="center">Abdullah Samir Khalifah</h1>
 
 ###
 
@@ -25,7 +25,7 @@ I came to backend engineering through self-directed study. Starting with core CS
 ## **Contact**
 
 - Email: abdallasamirkhalifa@gmail.com
-- Linkedin: [Abdalla Khalifa](linkedin.com/in/abdalla-khalifa)
+- Linkedin: [Abdullah Khalifah](linkedin.com/in/abdullah-khalifah)
 
 ###
 
